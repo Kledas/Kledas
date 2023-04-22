@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Kledas<br>- 👀 I’m interested in C#<br>- 🌱 I’m currently learning C#<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me kpakr@hotmail.com
+- 👋 Hi, I’m @Kledas<br>- 👀 I’m interested in C#<br>- 🌱 I’m currently learning C#<br>- 📫 How to reach me kpakr@hotmail.com
 
 
 ## 🌐 Socials:
